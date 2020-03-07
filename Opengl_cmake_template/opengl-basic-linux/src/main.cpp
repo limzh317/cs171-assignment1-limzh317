@@ -1,5 +1,4 @@
 
-#include <windef.h>
 #include <glad/glad.h>  
 #include <GL/glu.h>
 #include <GLFW/glfw3.h>
