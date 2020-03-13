@@ -1,0 +1,4 @@
+/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build/CMakeFiles/rebuild_cache.dir
+/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build/CMakeFiles/edit_cache.dir
+/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build/CMakeFiles/glad.dir
+/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build/CMakeFiles/opengl-basic.dir

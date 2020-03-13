@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../3rdLibs/glad/include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+../3rdLibs/glad/include/glad/glad.h
+KHR/khrplatform.h
+-
+
+/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/src/main.cpp
+glad/glad.h
+-
+GL/glu.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+

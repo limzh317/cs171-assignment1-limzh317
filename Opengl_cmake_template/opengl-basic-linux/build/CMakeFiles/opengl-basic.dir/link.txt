@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/opengl-basic.dir/src/main.cpp.o  -o opengl-basic -Wl,-rpath,/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build libglad.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 -lGLU -lGL -lGLU -lGL 

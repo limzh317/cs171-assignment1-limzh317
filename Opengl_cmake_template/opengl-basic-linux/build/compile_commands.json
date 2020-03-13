@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build",
+  "command": "/usr/bin/cc -Dglad_EXPORTS -I/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/include  -g -fPIC   -o CMakeFiles/glad.dir/3rdLibs/glad/src/glad.c.o   -c /home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/src/glad.c",
+  "file": "/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/src/glad.c"
+},
+{
+  "directory": "/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/build",
+  "command": "/usr/bin/c++  -DGLFW_DLL -I/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/include  -g   -std=gnu++11 -o CMakeFiles/opengl-basic.dir/src/main.cpp.o -c /home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/src/main.cpp",
+  "file": "/home/limingzhang/Desktop/Graphics_hw1/cs171-assignment1-limzh317/Opengl_cmake_template/opengl-basic-linux/src/main.cpp"
+}
+]
